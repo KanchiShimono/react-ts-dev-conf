@@ -14,8 +14,11 @@
     "noImplicitReturns": true,
     "noFallthroughCasesInSwitch": true,
     "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
     "newLine": "LF",
     "forceConsistentCasingInFileNames": true,
+    "esModuleInterop": true,
+    "isolatedModules": true,
     "jsx": "react"
   },
   "include": [
